@@ -39,7 +39,7 @@
   // transition-duration: 250ms;
   // transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   &:hover,
-  &focus {
+  &:focus {
     fill: var(--soc-link-color-sec);
     border-color: var(--soc-link-color-sec);
   }
